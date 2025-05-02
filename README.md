@@ -1,4 +1,4 @@
-## ITCS 103 Quiz
+## ✏️ ITCS 103 Quiz Student's Score Tracker
 
 This is a Python-based GUI application that allows users to input student quiz/test scores, store them in an Excel file, and view or reset all saved records. It's built using CustomTkinter for a modern UI, openpyxl for Excel integration, and Pillow for image handling.
 
